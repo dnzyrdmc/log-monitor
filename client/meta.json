@@ -1,0 +1,7 @@
+{
+  "day": "20 / 20",
+  "title": "Canlı Log ve Sistem İzleme Paneli",
+  "description": "Servis mesajlarını topla, seviyeye göre filtrele ve canlı değişiklikleri izle.",
+  "mode": "Yerel HTTP ingestion · SSE",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}
